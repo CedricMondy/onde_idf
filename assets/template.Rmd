@@ -1,6 +1,6 @@
 ---
 title: "Cartographie régionale du suivi des étiages (ONDE)"
-author: "OFB DR Normandie - Service régional Connaissance"
+author: "OFB"
 date: "MAJ: `r format(Sys.time(), '%d/%m/%Y - %H:%M')`"
 output: 
   html_document :
